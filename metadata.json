@@ -1,0 +1,6 @@
+{
+  "name": "Visit Lesotho",
+  "description": "A premium, comprehensive tourism, culture, food marketplace, and AI travel assistant platform for the Kingdom in the Sky.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
